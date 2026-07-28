@@ -1,0 +1,51 @@
+Outlet_ID,Outlet_Type,Outlet_Size,Tier,Establishment_Year
+OUT001,Convenience store,Small,Tier 1,2008
+OUT002,supermarket,   ,tier 2,1992
+OUT003,Supermarkt,,tier 2,1996
+OUT004, Grocery Store  ,Medium ,Tier 2,2014
+OUT005,Convenience Store,SMALL, TIER 2  ,2012
+OUT006,Supermarket,Large,Tier 3,2006
+OUT007,grocery store,Medium ,Tier 2,
+OUT008,Convenience Store,Medium,tier 1,2013
+OUT009,supermarket,large,TIER 1,1991
+OUT010,Supermarket,Large,Tier 3,2013
+OUT011,Grocery store,Medium,tier 1,2008
+OUT012,supermarket,Medium,Tier 3,2020
+OUT013,SUPERMARKET,small,Tier 1,2011
+OUT014, Super Market  ,large,tier 2,2002
+OUT015,Supermarket,Large,Tier 2,2007
+OUT016,Grocery Store,Medium,Tier 2,1991
+OUT017,Supermarket,, tier 1  ,1998
+OUT018, Grocery store  ,large,TIER 2,1992
+OUT019,Super Market,Large,Tier 3,2002
+OUT020,GROCERY STORE,SMALL,Tier 1,2004
+OUT021,Grocery Store,small,Tier 1,2018
+OUT022,Convenience store,,Tier 1,2015
+OUT023, Super Market  , small  ,TIER 2,2005
+OUT024,Grocery store,small,Tier 1,2015
+OUT025,Convenience store,Small,Tier 2,1993
+OUT026,Super Market,Medium ,Tier 3,2020
+OUT027,SUPERMARKET,Large,Tier 1,2012
+OUT028,Super Market, Medium  ,Tier 3,1996
+OUT029,GROCERY STORE,Large, Tier 3  ,2009
+OUT030,Super Market,Large, TIER 2  ,1995
+OUT031,SUPERMARKET,large,TIER 2,2017
+OUT032,convenience store,,TIER 1,2000
+OUT033,GROCERY STORE,large,TIER 2,1995
+OUT034,convenience store,large,TIER 1,2012
+OUT035,SUPERMARKET,small,Tier 1,2014
+OUT036,Supermarket,Medium ,TIER 1,1993
+OUT037,supermarket,Medium,TIER 2,2018
+OUT038,Grocery store,Large, Tier 1  ,2015
+OUT039,Supermarket,small,TIER 2,2005
+OUT040,SUPERMARKET, Medium  ,Tier 1,1992
+OUT041,grocery store,Medium,TIER 1,1995
+OUT042,Convenience Store,large,Tier 1,2009
+OUT043,grocery store,SMALL,Tier 2,1993
+OUT044,grocery store, Large  ,Tier 1,1999
+OUT045,Convenience Store,small,tier 2,1990
+OUT046,Grocery store,SMALL,tier 2,1996
+OUT047,grocery store,Medium ,tier 2,2005
+OUT048,Grocery store,SMALL,Tier 1,2001
+OUT049,SUPERMARKET,large,tier 1,1994
+OUT050,grocery store,,Tier 1,2008

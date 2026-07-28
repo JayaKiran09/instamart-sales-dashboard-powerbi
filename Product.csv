@@ -1,0 +1,501 @@
+Item_ID,Item_Name,Category,Fat_Content,Weight
+ITM0001,Amul Butter #1,Snacks,regular,1.19
+ITM0002,Colgate Toothpaste #2,Snacks, LOW FAT  ,0.56
+ITM0003,Dettol Handwash #3,Dairy,Regular,3.54
+ITM0004,Colgate Toothpaste #4,Personal Care,low fat,0.13
+ITM0005,Parle-G Biscuit #5,Frozen,low fat,4.79
+ITM0006,Tata Salt #6,Snacks,Low Fat,1.79
+ITM0007,Horlicks #7,Dairy,Low  Fat,4.62
+ITM0008,Aashirvaad Atta #8,Meat,Regular ,
+ITM0009,Tropicana OJ #9,Bakery,Low Fat,4.35
+ITM0010,Haldiram Mixture #10,Personal Care,Regular,1.13
+ITM0011,Aashirvaad Atta #11,Snacks,regular,3.67
+ITM0012,Maggi Noodles #12,Frozen,regular,1.18
+ITM0013,Dove Soap #13,Dairy, Regular   ,1.65
+ITM0014,Colgate Toothpaste #14,Bakery,regular,3.31
+ITM0015,Chicken Breast #15,Personal Care,low fat,3.75
+ITM0016,Colgate Toothpaste #16,Frozen,LOW FAT,4.99
+ITM0017,Coca-Cola #17,Personal Care, Regular   ,0.64
+ITM0018,Aashirvaad Atta #18,Frozen,Low Fat,3.02
+ITM0019,Dettol Handwash #19,Meat,Regular ,3.43
+ITM0020,Parle-G Biscuit #20,Meat,Low Fat,
+ITM0021,KitKat #21,Meat,Regular ,4.57
+ITM0022,KitKat #22,Meat,Low  Fat,1.93
+ITM0023,Aashirvaad Atta #23,Dairy,low fat,0.65
+ITM0024,Dove Soap #24,Meat,Low Fat,2.88
+ITM0025,Coca-Cola #25,Personal Care,Regular ,0.72
+ITM0026,Maggi Noodles #26,Beverages,Low  Fat,2.17
+ITM0027,Tropicana OJ #27,Bakery,LOW FAT,3.28
+ITM0028,Britannia Bread #28,Personal Care,Regular,1.76
+ITM0029,Colgate Toothpaste #29,Bakery, Regular  ,
+ITM0030,Lay's Classic #30,Snacks,Regular ,2.62
+ITM0031,Frozen Peas #31,Personal Care,Low  Fat,4.68
+ITM0032,Dove Soap #32,Personal Care,Regular ,2.09
+ITM0033,Haldiram Mixture #33,Frozen,LOW FAT,
+ITM0034,Lay's Classic #34,Snacks,LOW FAT,4.02
+ITM0035,Frozen Peas #35,Bakery,Low  Fat,2.17
+ITM0036,Coca-Cola #36,Bakery,LOW FAT,4.29
+ITM0037,Coca-Cola #37,Dairy,Regular ,0.91
+ITM0038,Tata Salt #38,Bakery,Low Fat,0.11
+ITM0039,Tropicana OJ #39,Personal Care,LOW FAT,3.68
+ITM0040,Chicken Breast #40,Personal Care,Regular,4.85
+ITM0041,Parle-G Biscuit #41,Dairy, Low Fat  ,2.44
+ITM0042,Lay's Classic #42,Beverages,Low  Fat,1.01
+ITM0043,Tata Salt #43,Bakery,Low Fat,2.89
+ITM0044,Aashirvaad Atta #44,Dairy,Low Fat,2.96
+ITM0045,Frozen Peas #45,Meat,regular,1.27
+ITM0046,Horlicks #46,Meat,low fat,
+ITM0047,Coca-Cola #47,Snacks,Low  Fat,1.40
+ITM0048,Dove Soap #48,Snacks,low fat,2.25
+ITM0049,Aashirvaad Atta #49,Meat,Regular ,0.14
+ITM0050,Britannia Bread #50,Meat,Regular,4.46
+ITM0051,Maggi Noodles #51,Beverages,low fat,3.62
+ITM0052,KitKat #52,Meat,LOW FAT,
+ITM0053,Maggi Noodles #53,Frozen, Low Fat  ,3.88
+ITM0054,Spinach #54,Meat,regular,3.56
+ITM0055,Coca-Cola #55,Snacks,regular,2.77
+ITM0056,Surf Excel #56,Beverages, Regular  ,1.89
+ITM0057,Haldiram Mixture #57,Dairy,Regular,3.37
+ITM0058,Aashirvaad Atta #58,Frozen,regular,4.66
+ITM0059,Surf Excel #59,Beverages,Low Fat,4.63
+ITM0060,Dove Soap #60,Frozen,low fat,3.54
+ITM0061,Cadbury Dairy Milk #61,Dairy,Regular,4.60
+ITM0062,Dove Soap #62,Bakery,Low Fat,2.05
+ITM0063,Maggi Noodles #63,Snacks,low fat,2.06
+ITM0064,Amul Butter #64,Vegetables,Low Fat,1.38
+ITM0065,Lay's Classic #65,Meat,Low Fat,1.79
+ITM0066,Aashirvaad Atta #66,Frozen,Low  Fat,4.51
+ITM0067,Surf Excel #67,Dairy,Low Fat,4.05
+ITM0068,Haldiram Mixture #68,Bakery, LOW FAT  ,3.35
+ITM0069,Britannia Bread #69,Vegetables,regular,2.58
+ITM0070,Tata Salt #70,Vegetables,regular,0.72
+ITM0071,Spinach #71,Frozen,Low  Fat,2.09
+ITM0072,Tropicana OJ #72,Meat,Regular,2.94
+ITM0073,Horlicks #73,Personal Care,LOW FAT,2.60
+ITM0074,Coca-Cola #74,Beverages,low fat,3.20
+ITM0075,Tropicana OJ #75,Bakery,Regular,
+ITM0076,Aashirvaad Atta #76,Personal Care,Regular ,2.33
+ITM0077,Tata Salt #77,Bakery,LOW FAT,0.82
+ITM0078,Surf Excel #78,Snacks,Regular,4.79
+ITM0079,Dettol Handwash #79,Dairy,Regular,0.69
+ITM0080,KitKat #80,Personal Care,Low  Fat,4.76
+ITM0081,Dettol Handwash #81,Frozen,LOW FAT,3.74
+ITM0082,Dove Soap #82,Meat,Regular ,3.85
+ITM0083,Maggi Noodles #83,Bakery, LOW FAT  ,1.50
+ITM0084,Dettol Handwash #84,Vegetables,Low Fat,1.23
+ITM0085,Coca-Cola #85,Bakery,LOW FAT,2.76
+ITM0086,Surf Excel #86,Bakery,LOW FAT,2.96
+ITM0087,Cadbury Dairy Milk #87,Frozen,Low Fat,1.56
+ITM0088,Dettol Handwash #88,Frozen,regular,4.02
+ITM0089,Dove Soap #89,Personal Care,low fat,0.24
+ITM0090,Spinach #90,Frozen,Regular ,0.73
+ITM0091,Tata Salt #91,Dairy,Low  Fat,0.23
+ITM0092,Horlicks #92,Beverages, Regular  ,1.96
+ITM0093,Parle-G Biscuit #93,Vegetables,Regular ,1.46
+ITM0094,Maggi Noodles #94,Frozen,Regular ,0.19
+ITM0095,Dove Soap #95,Vegetables, regular  ,
+ITM0096,Dove Soap #96,Dairy,Regular,3.14
+ITM0097,Britannia Bread #97,Personal Care,Low  Fat,2.38
+ITM0098,Spinach #98,Vegetables,Low  Fat,3.76
+ITM0099,Tropicana OJ #99,Beverages,Low Fat,4.65
+ITM0100,Tata Salt #100,Frozen,regular,3.00
+ITM0101,Britannia Bread #101,Bakery,regular,4.27
+ITM0102,Colgate Toothpaste #102,Snacks, Regular   ,2.71
+ITM0103,KitKat #103,Snacks,regular,4.26
+ITM0104,Surf Excel #104,Snacks,low fat,4.16
+ITM0105,Spinach #105,Frozen,regular,3.29
+ITM0106,Horlicks #106,Personal Care,LOW FAT,3.00
+ITM0107,Coca-Cola #107,Bakery,low fat,1.29
+ITM0108,Parle-G Biscuit #108,Frozen,Low Fat,1.69
+ITM0109,Maggi Noodles #109,Vegetables,low fat,3.02
+ITM0110,KitKat #110,Dairy,Regular,3.63
+ITM0111,Cadbury Dairy Milk #111,Bakery,regular,
+ITM0112,Dove Soap #112,Meat,LOW FAT,1.60
+ITM0113,Dettol Handwash #113,Personal Care,Low  Fat,4.98
+ITM0114,Horlicks #114,Vegetables,low fat,1.23
+ITM0115,Britannia Bread #115,Vegetables,regular,3.83
+ITM0116,Cadbury Dairy Milk #116,Bakery,low fat,4.89
+ITM0117,Britannia Bread #117,Meat,Regular ,1.21
+ITM0118,Dettol Handwash #118,Dairy,Regular,4.87
+ITM0119,Cadbury Dairy Milk #119,Beverages,Low Fat,2.91
+ITM0120,Parle-G Biscuit #120,Personal Care,Regular,1.34
+ITM0121,Coca-Cola #121,Snacks,LOW FAT,2.93
+ITM0122,Chicken Breast #122,Beverages,Regular ,1.59
+ITM0123,Dettol Handwash #123,Snacks,Regular ,3.02
+ITM0124,Horlicks #124,Frozen,LOW FAT,2.98
+ITM0125,Aashirvaad Atta #125,Dairy,regular,3.84
+ITM0126,Coca-Cola #126,Meat,Regular,2.80
+ITM0127,Horlicks #127,Frozen,regular,1.53
+ITM0128,Horlicks #128,Meat,Low Fat,4.63
+ITM0129,Surf Excel #129,Bakery,Low Fat,3.27
+ITM0130,Coca-Cola #130,Beverages,Low Fat,1.61
+ITM0131,Horlicks #131,Meat,Low Fat,1.59
+ITM0132,KitKat #132,Meat,Low  Fat,
+ITM0133,Parle-G Biscuit #133,Frozen,Low  Fat,0.55
+ITM0134,Maggi Noodles #134,Dairy, Low  Fat  ,3.81
+ITM0135,Maggi Noodles #135,Personal Care,Regular,2.24
+ITM0136,Cadbury Dairy Milk #136,Snacks,low fat,1.67
+ITM0137,Parle-G Biscuit #137,Beverages,LOW FAT,1.51
+ITM0138,Horlicks #138,Dairy,Low Fat,1.68
+ITM0139,KitKat #139,Frozen,Regular ,3.32
+ITM0140,Lay's Classic #140,Frozen,Regular,3.15
+ITM0141,Lay's Classic #141,Personal Care,Regular,0.74
+ITM0142,Britannia Bread #142,Personal Care,Low Fat,3.08
+ITM0143,Tropicana OJ #143,Beverages, Low  Fat  ,2.10
+ITM0144,Horlicks #144,Snacks,Low Fat,0.85
+ITM0145,KitKat #145,Meat,regular,4.19
+ITM0146,Horlicks #146,Bakery,Low  Fat,1.03
+ITM0147,Coca-Cola #147,Beverages,low fat,4.29
+ITM0148,Amul Butter #148,Meat,low fat,4.20
+ITM0149,Chicken Breast #149,Personal Care,LOW FAT,1.79
+ITM0150,Horlicks #150,Frozen,low fat,4.91
+ITM0151,Dove Soap #151,Frozen,Regular ,0.31
+ITM0152,Tata Salt #152,Frozen,regular,3.29
+ITM0153,Chicken Breast #153,Dairy,Low  Fat,1.73
+ITM0154,Britannia Bread #154,Personal Care,Low  Fat,0.18
+ITM0155,Coca-Cola #155,Beverages,LOW FAT,1.40
+ITM0156,Coca-Cola #156,Frozen,Regular ,3.40
+ITM0157,Cadbury Dairy Milk #157,Vegetables,Regular ,3.13
+ITM0158,Dove Soap #158,Meat,regular,4.89
+ITM0159,Horlicks #159,Snacks,Regular,
+ITM0160,Tropicana OJ #160,Dairy,low fat,0.81
+ITM0161,Spinach #161,Beverages, Regular  ,4.37
+ITM0162,Cadbury Dairy Milk #162,Bakery,Low  Fat,2.36
+ITM0163,Amul Butter #163,Meat,Regular ,1.51
+ITM0164,Horlicks #164,Snacks,low fat,1.57
+ITM0165,Horlicks #165,Meat,Regular ,5.00
+ITM0166,Dove Soap #166,Snacks,LOW FAT,2.92
+ITM0167,Amul Butter #167,Meat,Regular ,1.44
+ITM0168,Aashirvaad Atta #168,Dairy,regular,4.53
+ITM0169,Aashirvaad Atta #169,Bakery,Regular ,3.22
+ITM0170,Britannia Bread #170,Beverages,regular,1.61
+ITM0171,Chicken Breast #171,Vegetables,Low Fat,1.70
+ITM0172,Chicken Breast #172,Bakery,Regular ,4.86
+ITM0173,Spinach #173,Meat,low fat,4.73
+ITM0174,Parle-G Biscuit #174,Meat,Regular ,4.82
+ITM0175,Tata Salt #175,Bakery,Regular ,1.89
+ITM0176,Maggi Noodles #176,Dairy,Low  Fat,1.91
+ITM0177,Colgate Toothpaste #177,Meat,LOW FAT,4.71
+ITM0178,Cadbury Dairy Milk #178,Bakery,Low Fat,4.72
+ITM0179,Coca-Cola #179,Bakery,regular,4.56
+ITM0180,Britannia Bread #180,Frozen, Regular  ,0.28
+ITM0181,Britannia Bread #181,Snacks,Regular,0.76
+ITM0182,Colgate Toothpaste #182,Frozen,regular,4.44
+ITM0183,Aashirvaad Atta #183,Personal Care,LOW FAT,1.47
+ITM0184,Horlicks #184,Bakery,LOW FAT,4.29
+ITM0185,Dettol Handwash #185,Vegetables,regular,2.05
+ITM0186,Horlicks #186,Snacks,Low Fat,3.24
+ITM0187,Lay's Classic #187,Dairy,Regular ,4.95
+ITM0188,Coca-Cola #188,Bakery,Regular ,1.12
+ITM0189,Parle-G Biscuit #189,Bakery,Regular ,
+ITM0190,Chicken Breast #190,Beverages,Low  Fat,0.96
+ITM0191,Chicken Breast #191,Dairy,Low Fat,3.96
+ITM0192,Spinach #192,Dairy, low fat  ,3.73
+ITM0193,Cadbury Dairy Milk #193,Snacks,LOW FAT,2.61
+ITM0194,Aashirvaad Atta #194,Bakery,Low Fat,4.55
+ITM0195,Horlicks #195,Meat,regular,0.40
+ITM0196,Surf Excel #196,Frozen,regular,3.59
+ITM0197,Parle-G Biscuit #197,Snacks,Low  Fat,0.72
+ITM0198,Tata Salt #198,Vegetables,Low  Fat,2.32
+ITM0199,Britannia Bread #199,Snacks,Regular ,4.40
+ITM0200,Surf Excel #200,Bakery,LOW FAT,2.13
+ITM0201,Surf Excel #201,Frozen,regular,2.19
+ITM0202,Chicken Breast #202,Vegetables,regular,0.43
+ITM0203,Surf Excel #203,Snacks,Low Fat,1.93
+ITM0204,Colgate Toothpaste #204,Dairy,Low  Fat,3.38
+ITM0205,Lay's Classic #205,Frozen,low fat,1.82
+ITM0206,Chicken Breast #206,Bakery,regular,4.25
+ITM0207,Britannia Bread #207,Vegetables,Regular ,1.21
+ITM0208,Aashirvaad Atta #208,Dairy,regular,1.41
+ITM0209,Parle-G Biscuit #209,Meat, low fat  ,4.36
+ITM0210,Coca-Cola #210,Frozen,Regular,4.86
+ITM0211,Tata Salt #211,Bakery,LOW FAT,0.87
+ITM0212,Colgate Toothpaste #212,Vegetables,Low  Fat,0.36
+ITM0213,Coca-Cola #213,Dairy,low fat,2.18
+ITM0214,Maggi Noodles #214,Frozen,Regular,0.66
+ITM0215,Colgate Toothpaste #215,Meat,LOW FAT,1.61
+ITM0216,Amul Butter #216,Dairy,Regular,1.14
+ITM0217,Tropicana OJ #217,Meat,low fat,2.54
+ITM0218,Tata Salt #218,Beverages,Low  Fat,2.55
+ITM0219,Coca-Cola #219,Vegetables,LOW FAT,
+ITM0220,Parle-G Biscuit #220,Snacks,Low  Fat,2.08
+ITM0221,Britannia Bread #221,Meat, LOW FAT  ,1.69
+ITM0222,Haldiram Mixture #222,Personal Care,Low Fat,0.62
+ITM0223,KitKat #223,Frozen,Low Fat,1.62
+ITM0224,Spinach #224,Vegetables,Low Fat,0.66
+ITM0225,Haldiram Mixture #225,Vegetables,regular,3.26
+ITM0226,Chicken Breast #226,Snacks,low fat,3.05
+ITM0227,Spinach #227,Snacks,Regular ,2.37
+ITM0228,Colgate Toothpaste #228,Personal Care,regular,3.16
+ITM0229,Chicken Breast #229,Vegetables, LOW FAT  ,2.27
+ITM0230,Colgate Toothpaste #230,Meat,Low Fat,0.46
+ITM0231,Lay's Classic #231,Dairy,low fat,0.48
+ITM0232,Aashirvaad Atta #232,Snacks,Low  Fat,2.37
+ITM0233,Horlicks #233,Dairy,Regular ,1.02
+ITM0234,Lay's Classic #234,Beverages,LOW FAT,4.51
+ITM0235,KitKat #235,Snacks,regular,1.31
+ITM0236,KitKat #236,Personal Care,Low  Fat,1.88
+ITM0237,Surf Excel #237,Frozen,Regular ,3.03
+ITM0238,Coca-Cola #238,Vegetables,low fat,3.42
+ITM0239,Parle-G Biscuit #239,Beverages,Low Fat,0.79
+ITM0240,Chicken Breast #240,Frozen,Low  Fat,0.52
+ITM0241,Chicken Breast #241,Vegetables,regular,4.74
+ITM0242,Surf Excel #242,Snacks,Low  Fat,1.88
+ITM0243,Parle-G Biscuit #243,Bakery,Regular ,1.21
+ITM0244,Tropicana OJ #244,Snacks,Regular ,2.59
+ITM0245,Parle-G Biscuit #245,Dairy,Regular ,3.03
+ITM0246,Aashirvaad Atta #246,Beverages,Regular ,
+ITM0247,Dove Soap #247,Vegetables,LOW FAT,3.79
+ITM0248,Dettol Handwash #248,Bakery,Regular,4.06
+ITM0249,Haldiram Mixture #249,Bakery,regular,4.92
+ITM0250,Tata Salt #250,Meat,Low  Fat,4.83
+ITM0251,Maggi Noodles #251,Beverages,Low Fat,4.38
+ITM0252,KitKat #252,Snacks,Regular ,0.51
+ITM0253,KitKat #253,Personal Care,Regular,0.55
+ITM0254,Haldiram Mixture #254,Personal Care,Low Fat,2.04
+ITM0255,Coca-Cola #255,Frozen,low fat,1.66
+ITM0256,Chicken Breast #256,Vegetables, Regular  ,4.60
+ITM0257,Cadbury Dairy Milk #257,Beverages,LOW FAT,
+ITM0258,Chicken Breast #258,Bakery,Low  Fat,3.08
+ITM0259,Dove Soap #259,Meat,low fat,1.27
+ITM0260,Coca-Cola #260,Personal Care,Low Fat,2.55
+ITM0261,Chicken Breast #261,Bakery,low fat,3.11
+ITM0262,Spinach #262,Frozen,regular,2.67
+ITM0263,Tata Salt #263,Dairy,Regular ,3.21
+ITM0264,Amul Butter #264,Meat,low fat,1.79
+ITM0265,Colgate Toothpaste #265,Snacks,regular,0.75
+ITM0266,Spinach #266,Vegetables,Regular ,2.38
+ITM0267,Chicken Breast #267,Beverages,Low Fat,
+ITM0268,Lay's Classic #268,Bakery,Regular ,0.31
+ITM0269,Dettol Handwash #269,Frozen,LOW FAT,3.79
+ITM0270,Lay's Classic #270,Vegetables,Regular ,1.44
+ITM0271,Tata Salt #271,Frozen,regular,4.79
+ITM0272,Cadbury Dairy Milk #272,Beverages,regular,4.63
+ITM0273,Surf Excel #273,Snacks,Low Fat,4.98
+ITM0274,Parle-G Biscuit #274,Meat,Low Fat,3.34
+ITM0275,Spinach #275,Frozen,regular,2.29
+ITM0276,Aashirvaad Atta #276,Vegetables,LOW FAT,4.90
+ITM0277,Tata Salt #277,Snacks,low fat,3.77
+ITM0278,Chicken Breast #278,Dairy,Regular ,
+ITM0279,Dove Soap #279,Snacks,Regular ,1.87
+ITM0280,Aashirvaad Atta #280,Dairy,Regular,4.75
+ITM0281,Colgate Toothpaste #281,Snacks,Regular,2.05
+ITM0282,Britannia Bread #282,Bakery,Low Fat,2.55
+ITM0283,Maggi Noodles #283,Snacks,Regular ,2.29
+ITM0284,Cadbury Dairy Milk #284,Meat,Regular,4.28
+ITM0285,Coca-Cola #285,Personal Care,Regular ,4.24
+ITM0286,Coca-Cola #286,Vegetables,Low  Fat,4.47
+ITM0287,Haldiram Mixture #287,Beverages,Low  Fat,4.93
+ITM0288,Cadbury Dairy Milk #288,Bakery,Low Fat,2.90
+ITM0289,Aashirvaad Atta #289,Beverages, Low Fat  ,2.05
+ITM0290,KitKat #290,Personal Care,LOW FAT,4.13
+ITM0291,Coca-Cola #291,Vegetables,LOW FAT,2.64
+ITM0292,Chicken Breast #292,Beverages,LOW FAT,4.35
+ITM0293,Tropicana OJ #293,Beverages,Regular,4.68
+ITM0294,Coca-Cola #294,Meat,low fat,4.79
+ITM0295,Aashirvaad Atta #295,Meat,Low  Fat,3.24
+ITM0296,Spinach #296,Beverages,regular,4.52
+ITM0297,Amul Butter #297,Dairy, Low Fat  ,3.24
+ITM0298,Colgate Toothpaste #298,Bakery,LOW FAT,0.25
+ITM0299,Tropicana OJ #299,Meat,LOW FAT,4.06
+ITM0300,Coca-Cola #300,Personal Care, regular  ,2.25
+ITM0301,Parle-G Biscuit #301,Bakery,Low  Fat,4.32
+ITM0302,Tata Salt #302,Vegetables,Regular,2.62
+ITM0303,Horlicks #303,Bakery,Low Fat,1.31
+ITM0304,Tata Salt #304,Meat,Regular ,1.32
+ITM0305,Parle-G Biscuit #305,Beverages,Low  Fat,1.03
+ITM0306,Cadbury Dairy Milk #306,Personal Care,low fat,0.54
+ITM0307,Dove Soap #307,Personal Care,Regular,0.34
+ITM0308,Tropicana OJ #308,Personal Care, Low  Fat  ,0.63
+ITM0309,Haldiram Mixture #309,Meat,Regular ,
+ITM0310,Haldiram Mixture #310,Bakery,Low  Fat,1.99
+ITM0311,Aashirvaad Atta #311,Meat,regular,0.73
+ITM0312,Parle-G Biscuit #312,Vegetables,Low  Fat,3.80
+ITM0313,KitKat #313,Frozen, Low Fat  ,0.77
+ITM0314,KitKat #314,Personal Care,LOW FAT,4.48
+ITM0315,Spinach #315,Vegetables,LOW FAT,3.72
+ITM0316,KitKat #316,Vegetables,Regular ,2.50
+ITM0317,Amul Butter #317,Personal Care,low fat,0.64
+ITM0318,Amul Butter #318,Meat,Low  Fat,4.84
+ITM0319,Lay's Classic #319,Bakery,Low  Fat,2.67
+ITM0320,Chicken Breast #320,Frozen,Regular ,0.25
+ITM0321,Frozen Peas #321,Snacks,Low Fat,2.15
+ITM0322,Surf Excel #322,Bakery,Low  Fat,4.61
+ITM0323,Chicken Breast #323,Dairy,Low  Fat,1.69
+ITM0324,Parle-G Biscuit #324,Frozen,Regular,2.71
+ITM0325,Aashirvaad Atta #325,Meat,LOW FAT,1.31
+ITM0326,Tropicana OJ #326,Bakery,Regular ,1.12
+ITM0327,Cadbury Dairy Milk #327,Vegetables,low fat,4.68
+ITM0328,Britannia Bread #328,Meat,Low  Fat,1.96
+ITM0329,Chicken Breast #329,Vegetables, low fat  ,4.78
+ITM0330,Maggi Noodles #330,Personal Care,regular,1.09
+ITM0331,Chicken Breast #331,Meat,Low Fat,2.98
+ITM0332,Dove Soap #332,Bakery,Low Fat,1.72
+ITM0333,Amul Butter #333,Beverages,Low  Fat,0.87
+ITM0334,Cadbury Dairy Milk #334,Personal Care,regular,4.82
+ITM0335,Coca-Cola #335,Dairy,regular,2.72
+ITM0336,Spinach #336,Dairy,LOW FAT,0.96
+ITM0337,Cadbury Dairy Milk #337,Frozen,Regular,4.81
+ITM0338,Amul Butter #338,Dairy,low fat,0.63
+ITM0339,Horlicks #339,Meat,regular,2.52
+ITM0340,Maggi Noodles #340,Personal Care,Regular,1.72
+ITM0341,Spinach #341,Meat,Low Fat,3.97
+ITM0342,Spinach #342,Bakery,Low  Fat,4.50
+ITM0343,Coca-Cola #343,Vegetables,LOW FAT,1.01
+ITM0344,Dove Soap #344,Vegetables,Low Fat,1.25
+ITM0345,Tropicana OJ #345,Vegetables,Low  Fat,0.16
+ITM0346,Lay's Classic #346,Bakery,regular,1.60
+ITM0347,Britannia Bread #347,Meat,regular,1.55
+ITM0348,Chicken Breast #348,Bakery,LOW FAT,3.76
+ITM0349,Dettol Handwash #349,Frozen,LOW FAT,4.03
+ITM0350,Aashirvaad Atta #350,Bakery,Regular ,2.67
+ITM0351,Coca-Cola #351,Vegetables,Low  Fat,4.16
+ITM0352,Colgate Toothpaste #352,Bakery,Low  Fat,1.71
+ITM0353,Frozen Peas #353,Snacks,regular,0.55
+ITM0354,Horlicks #354,Dairy,Regular,
+ITM0355,Tropicana OJ #355,Personal Care, regular  ,
+ITM0356,Colgate Toothpaste #356,Bakery, Low Fat  ,
+ITM0357,Coca-Cola #357,Dairy, LOW FAT  ,2.10
+ITM0358,Haldiram Mixture #358,Frozen,LOW FAT,4.59
+ITM0359,Dettol Handwash #359,Snacks,Regular,1.80
+ITM0360,KitKat #360,Frozen,Regular,
+ITM0361,Tropicana OJ #361,Dairy,LOW FAT,2.77
+ITM0362,Dove Soap #362,Bakery,LOW FAT,1.45
+ITM0363,Lay's Classic #363,Snacks,Regular ,3.11
+ITM0364,Dove Soap #364,Dairy, Regular  ,3.01
+ITM0365,Dove Soap #365,Dairy, regular  ,2.25
+ITM0366,Chicken Breast #366,Dairy,Low  Fat,1.25
+ITM0367,Colgate Toothpaste #367,Vegetables,Low  Fat,4.11
+ITM0368,KitKat #368,Beverages,Regular,1.45
+ITM0369,Surf Excel #369,Beverages,Low  Fat,4.86
+ITM0370,KitKat #370,Frozen,low fat,2.10
+ITM0371,Dettol Handwash #371,Beverages,LOW FAT,1.20
+ITM0372,Horlicks #372,Beverages,Low Fat,4.84
+ITM0373,Tata Salt #373,Beverages,Regular,1.72
+ITM0374,Haldiram Mixture #374,Personal Care,Low Fat,
+ITM0375,Aashirvaad Atta #375,Frozen, Low  Fat  ,0.46
+ITM0376,Cadbury Dairy Milk #376,Bakery,Regular,1.73
+ITM0377,Frozen Peas #377,Dairy,Regular,0.67
+ITM0378,Dove Soap #378,Personal Care,regular,1.10
+ITM0379,Tropicana OJ #379,Vegetables,LOW FAT,3.28
+ITM0380,KitKat #380,Vegetables,LOW FAT,4.03
+ITM0381,Frozen Peas #381,Vegetables,low fat,0.32
+ITM0382,Amul Butter #382,Beverages,low fat,2.96
+ITM0383,Chicken Breast #383,Meat,Regular,1.96
+ITM0384,Dettol Handwash #384,Personal Care,regular,1.75
+ITM0385,Cadbury Dairy Milk #385,Personal Care,LOW FAT,4.00
+ITM0386,Spinach #386,Personal Care,Low  Fat,4.79
+ITM0387,Lay's Classic #387,Snacks, Regular   ,0.77
+ITM0388,Chicken Breast #388,Snacks,Low Fat,
+ITM0389,Cadbury Dairy Milk #389,Personal Care, Low Fat  ,
+ITM0390,Dettol Handwash #390,Meat, low fat  ,4.08
+ITM0391,Britannia Bread #391,Beverages,Low Fat,1.28
+ITM0392,Haldiram Mixture #392,Meat,low fat,0.49
+ITM0393,Colgate Toothpaste #393,Personal Care,Regular,1.21
+ITM0394,Lay's Classic #394,Snacks,Low Fat,1.95
+ITM0395,Spinach #395,Dairy,Low Fat,2.23
+ITM0396,KitKat #396,Snacks,Low Fat,4.52
+ITM0397,Maggi Noodles #397,Personal Care,Low Fat,3.45
+ITM0398,Spinach #398,Dairy,Regular ,4.81
+ITM0399,Coca-Cola #399,Frozen,low fat,1.28
+ITM0400,Dettol Handwash #400,Frozen,low fat,3.72
+ITM0401,KitKat #401,Snacks,regular,0.36
+ITM0402,Parle-G Biscuit #402,Snacks,Low  Fat,4.78
+ITM0403,Amul Butter #403,Vegetables,regular,4.96
+ITM0404,Dettol Handwash #404,Vegetables,LOW FAT,3.43
+ITM0405,Aashirvaad Atta #405,Snacks,low fat,3.59
+ITM0406,Tata Salt #406,Beverages,regular,0.86
+ITM0407,Britannia Bread #407,Vegetables, Low Fat  ,1.61
+ITM0408,Britannia Bread #408,Meat,Regular,2.21
+ITM0409,Britannia Bread #409,Frozen,Low Fat,2.82
+ITM0410,Tata Salt #410,Vegetables,Low Fat,2.00
+ITM0411,Colgate Toothpaste #411,Bakery,Low  Fat,1.97
+ITM0412,Maggi Noodles #412,Meat,LOW FAT,0.92
+ITM0413,Cadbury Dairy Milk #413,Meat, Regular   ,1.33
+ITM0414,Aashirvaad Atta #414,Personal Care,Low  Fat,0.62
+ITM0415,Parle-G Biscuit #415,Frozen,Regular ,4.04
+ITM0416,Surf Excel #416,Vegetables,Regular ,3.29
+ITM0417,Parle-G Biscuit #417,Meat,Low  Fat,1.08
+ITM0418,Parle-G Biscuit #418,Frozen,low fat,3.20
+ITM0419,Parle-G Biscuit #419,Bakery,LOW FAT,3.95
+ITM0420,Colgate Toothpaste #420,Bakery,Low  Fat,
+ITM0421,Frozen Peas #421,Personal Care,LOW FAT,
+ITM0422,Cadbury Dairy Milk #422,Frozen,Regular,1.29
+ITM0423,Tata Salt #423,Frozen,Low Fat,3.03
+ITM0424,Dettol Handwash #424,Frozen,Low Fat,1.86
+ITM0425,Britannia Bread #425,Snacks,Regular ,3.36
+ITM0426,Colgate Toothpaste #426,Dairy,regular,2.06
+ITM0427,Britannia Bread #427,Frozen,Low Fat,1.19
+ITM0428,Horlicks #428,Bakery,low fat,3.88
+ITM0429,Haldiram Mixture #429,Beverages,Low Fat,1.55
+ITM0430,Britannia Bread #430,Snacks,Regular ,0.79
+ITM0431,Frozen Peas #431,Personal Care,Low  Fat,2.43
+ITM0432,Parle-G Biscuit #432,Personal Care,Low Fat,4.07
+ITM0433,Britannia Bread #433,Vegetables,regular,4.66
+ITM0434,Dettol Handwash #434,Beverages,Regular,2.19
+ITM0435,Spinach #435,Frozen,Regular,
+ITM0436,Horlicks #436,Bakery,Low  Fat,0.12
+ITM0437,Coca-Cola #437,Meat,Low  Fat,4.37
+ITM0438,Frozen Peas #438,Vegetables,LOW FAT,3.39
+ITM0439,Aashirvaad Atta #439,Vegetables,LOW FAT,2.98
+ITM0440,Aashirvaad Atta #440,Personal Care,Regular,3.56
+ITM0441,Chicken Breast #441,Snacks,low fat,1.60
+ITM0442,KitKat #442,Beverages,LOW FAT,0.78
+ITM0443,Cadbury Dairy Milk #443,Beverages,regular,4.60
+ITM0444,Dettol Handwash #444,Beverages,Regular,0.79
+ITM0445,Aashirvaad Atta #445,Personal Care,Low Fat,4.76
+ITM0446,Tata Salt #446,Bakery,Low  Fat,2.53
+ITM0447,Horlicks #447,Frozen,LOW FAT,2.87
+ITM0448,Tropicana OJ #448,Bakery,Low Fat,2.73
+ITM0449,Colgate Toothpaste #449,Personal Care,regular,2.53
+ITM0450,Maggi Noodles #450,Snacks,Regular ,4.96
+ITM0451,Horlicks #451,Dairy,Low  Fat,2.18
+ITM0452,Tropicana OJ #452,Bakery,Regular ,2.30
+ITM0453,Horlicks #453,Snacks,Regular ,3.90
+ITM0454,Aashirvaad Atta #454,Vegetables,regular,3.12
+ITM0455,Lay's Classic #455,Bakery,Low  Fat,1.48
+ITM0456,Tropicana OJ #456,Vegetables,low fat,4.77
+ITM0457,Chicken Breast #457,Snacks,Regular ,4.60
+ITM0458,Chicken Breast #458,Beverages,Regular,1.68
+ITM0459,Cadbury Dairy Milk #459,Frozen,Regular,1.42
+ITM0460,Coca-Cola #460,Personal Care,regular,3.87
+ITM0461,Haldiram Mixture #461,Meat,LOW FAT,
+ITM0462,Horlicks #462,Snacks,regular,
+ITM0463,Frozen Peas #463,Frozen,LOW FAT,2.52
+ITM0464,Parle-G Biscuit #464,Meat,Low  Fat,2.87
+ITM0465,Lay's Classic #465,Vegetables,Low Fat,3.94
+ITM0466,Spinach #466,Snacks,LOW FAT,4.96
+ITM0467,Tropicana OJ #467,Beverages,Regular,4.40
+ITM0468,Maggi Noodles #468,Vegetables,Low Fat,4.53
+ITM0469,Tropicana OJ #469,Frozen,regular,1.25
+ITM0470,Amul Butter #470,Snacks,Regular,0.75
+ITM0471,Amul Butter #471,Personal Care,Low Fat,4.10
+ITM0472,Chicken Breast #472,Frozen, LOW FAT  ,1.98
+ITM0473,Britannia Bread #473,Snacks,low fat,1.57
+ITM0474,Chicken Breast #474,Beverages,Low Fat,0.14
+ITM0475,Haldiram Mixture #475,Personal Care,regular,3.77
+ITM0476,Frozen Peas #476,Personal Care,Low Fat,0.79
+ITM0477,Haldiram Mixture #477,Frozen,LOW FAT,0.79
+ITM0478,Dove Soap #478,Snacks,Low  Fat,3.63
+ITM0479,Tropicana OJ #479,Dairy,Regular,2.60
+ITM0480,Lay's Classic #480,Meat,Regular ,4.78
+ITM0481,Dove Soap #481,Snacks,LOW FAT,0.45
+ITM0482,Haldiram Mixture #482,Dairy,low fat,4.32
+ITM0483,Dettol Handwash #483,Vegetables,regular,2.41
+ITM0484,Amul Butter #484,Snacks, Low  Fat  ,
+ITM0485,Tata Salt #485,Dairy,Low  Fat,3.59
+ITM0486,Tata Salt #486,Frozen,Low Fat,2.73
+ITM0487,Tropicana OJ #487,Snacks,Low Fat,1.10
+ITM0488,Tata Salt #488,Vegetables,Low  Fat,4.19
+ITM0489,Tropicana OJ #489,Snacks,regular,4.77
+ITM0490,Coca-Cola #490,Bakery,LOW FAT,
+ITM0491,Britannia Bread #491,Beverages,Low Fat,3.54
+ITM0492,KitKat #492,Vegetables,Low  Fat,3.63
+ITM0493,Maggi Noodles #493,Beverages,regular,
+ITM0494,Maggi Noodles #494,Frozen, Low  Fat  ,3.59
+ITM0495,Cadbury Dairy Milk #495,Snacks,LOW FAT,0.37
+ITM0496,Haldiram Mixture #496,Beverages,Regular,0.60
+ITM0497,Dove Soap #497,Snacks,regular,0.32
+ITM0498,Lay's Classic #498,Bakery,LOW FAT,4.61
+ITM0499,Dettol Handwash #499,Dairy,Regular ,3.73
+ITM0500,Dove Soap #500,Vegetables,LOW FAT,1.67

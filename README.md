@@ -1,4 +1,4 @@
-Instamart Sales Performance Dashboard — Power BI:
+# Instamart Sales Performance Dashboard — Power BI:
 An end-to-end Business Intelligence project: cleaning messy retail data, modeling it into a star schema, and building an interactive 3-page dashboard for a fictional online grocery chain (Instamart) operating across Tier 1–3 cities in India.
 
 🎯 Project Goal:
